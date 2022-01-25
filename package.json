@@ -1,0 +1,11 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "sample website",
+  "scripts": {
+    "build": "web.html"
+  },
+  "main": "web.js",
+  "author": "waffle",
+  "license": "MIT"
+}
