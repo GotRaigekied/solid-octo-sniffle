@@ -1,2 +1,2 @@
-# solid-octo-sniffle
+# N/a
 Sample website
